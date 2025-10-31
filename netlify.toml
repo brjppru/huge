@@ -1,0 +1,6 @@
+[build]
+  command = "hugo --gc --minify --cleanDestinationDir"
+  publish = "public"
+
+[build.environment]
+  HUGO_VERSION = "0.116.3"
