@@ -1,0 +1,34 @@
+baseURL: "/"
+languageCode: en-us
+title: "Roman Y. Bogdanov"
+
+theme: [PaperMod]
+params:
+  copyright: "© 2025 My Custom Site"
+  hideCredits: true # Отключает "Powered by Hugo"
+  hideDate: true # Отключает отображение даты на всех страницах
+  fontSize: 18px  # Пример настройки, если тема поддерживает такие параметры
+  defaultTheme: auto
+  disableThemeToggle: false
+  hideFooter: true
+  favicon: "/favicon.ico"
+menu:
+  main:
+    - name: "go"
+      url: "/"
+      weight: 10
+    - name: "About"
+      url: "/about/"
+      weight: 20
+    - name: "cl"
+      url: "/cl/"
+      weight: 50
+    - name: "orn"
+      url: "/orn/"
+      weight: 50
+    - name: "LinkedIn"
+      url: "https://www.linkedin.com/in/brjed/"
+      weight: 80
+    - name: "GitHUB"
+      url: "https://github.com/brjppru/"
+      weight: 90
