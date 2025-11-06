@@ -6,8 +6,9 @@ showDate: false
 - **sopm**:
   [sopm](https://readme.orionnet.ru/pages/viewpage.action?pageId=273711407)
 
-- **HR**:
+- **ERP**:
   [ERP](https://erp.orionnet.ru/events/)
+  [netbox](https://netbox.orionnet.ru/dcim/racks/)
 
 - **goods**:
   [MM](https://mm.orionnet.ru/)
@@ -17,4 +18,4 @@ showDate: false
   [iac](https://gitlab.orionnet.ru/iac/ci)
   [gitlab](https://gitlab.orionnet.ru/)
   [mailo](https://mail.orionnet.ru/mail/)
-
+  [office](https://r7admin.orionnet.ru/dashboard)
