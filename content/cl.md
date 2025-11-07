@@ -54,7 +54,8 @@ ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAINOk/fA74R1lcJbyK7XPMRp7288IgOCsnSG1FfuS574v
   [nerworktable](https://docs.google.com/spreadsheets/d/1kfWa9FMakMwhFfBxVw3C9VRyAJzu564UikfaTuWHD8o/)
 
 - **traffic**:
-  [elasticflow](http://10.192.16.238:5601/app/kibana#/dashboard/653cf1e0-2fd2-11e7-99ed-49759aed30f5?_g=h@b685e18&_a=h@6f105e0)
+  [oldflow](http://10.192.16.238:5601/app/kibana#/dashboard/653cf1e0-2fd2-11e7-99ed-49759aed30f5?_g=h@b685e18&_a=h@6f105e0)
+  [elflow](http://10.192.17.55:5601/app/kibana#/dashboards)
   [gitlab iac](https://gitlab.corp.cloudlinux.com/infra/networks/vrouter/-/blob/main/terraform/templates/virtual_machine.tf?ref_type=heads)
 
 - **sw+rt**:
