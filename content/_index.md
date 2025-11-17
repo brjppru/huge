@@ -6,6 +6,7 @@ draft: false
 - **ai**:
   [gem](https://gemini.google.com)
   [gpt](https://chatgpt.com/)
+  [studio](https://aistudio.google.com/prompts/new_chat)
 
 - **weather**:
   [airkaz](https://www.airkaz.org/almaty.php)
@@ -60,6 +61,7 @@ draft: false
   [dnssec](https://wander.science/projects/dns/dnssec-resolver-test/)
   [dnscheck](https://dnscheck.tools/)
   [SNI](https://www.cloudflare.com/ssl/encrypted-sni/)
+  [adblock](https://checkadblock.ru/)
 
 - **ripedb**:
   [hurricane](https://bgp.he.net/)
@@ -80,6 +82,7 @@ draft: false
   [st2](https://www.nperf.com/en/)
   [st3](https://zamerka.com/)
   [st4](https://yandex.kz/internet)
+  [awsst](https://aws-latency-test.com/)
   [brleak](https://browserleaks.com/)
   [ipleak](https://ipleak.net)
 
