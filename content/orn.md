@@ -9,9 +9,9 @@ showDate: false
 - **ERP**:
   [ERP](https://erp.orionnet.ru/events/)
   [netbox](https://netbox.orionnet.ru/dcim/racks/)
+  [rdweb](https://192.168.130.5/RDWeb/Pages/ru-RU/login.aspx?ReturnUrl=/RDWeb/Pages/ru-RU/Password.aspx)
 
 - **goods**:
-  [MM](https://mm.orionnet.ru/)
   [confl](https://readme.orionnet.ru/)
   [jira](https://do.orionnet.ru/)
   [zbx](http://10.253.255.45:3000/)
