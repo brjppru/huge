@@ -33,6 +33,7 @@ draft: false
   [purrli](https://purrli.com/)
   [sf1033](http://somafm.com/sf1033.pls)
   [montecarla](https://montecarlo.hostingradio.ru/montecarlo96.aacp)
+  [chillh](https://top-radio.ru/web/radio-record-chill-house)
 
 - **warez**:
   [rutracker](https://rutracker.org/)
