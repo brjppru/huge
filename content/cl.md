@@ -51,6 +51,7 @@ ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAINOk/fA74R1lcJbyK7XPMRp7288IgOCsnSG1FfuS574v
   [juniper](https://cloudlinux.slite.com/app/docs/JLnJKBS6BHYqsh)
   [vxlan](https://cloudlinux.slite.com/app/docs/NwuYNTnl49uil1)
   [nerworktable](https://docs.google.com/spreadsheets/d/1kfWa9FMakMwhFfBxVw3C9VRyAJzu564UikfaTuWHD8o/)
+  [netmaker](https://dashboard.netmaker.hcloud.svcs.io/hosts)
 
 - **traffic**:
   [elflow](http://10.192.17.55:5601/app/kibana#/dashboards)
@@ -61,7 +62,7 @@ ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAINOk/fA74R1lcJbyK7XPMRp7288IgOCsnSG1FfuS574v
   [configs](https://gitlab.corp.cloudlinux.com/infra/networks/configs)
   [ipplan](https://docs.google.com/spreadsheets/d/1xSFZ2032Snu4odtkWp1UzMCmWQVblx3vTBe3XKxJ7LU/edit?gid=1111799036#gid=1111799036)
   [viscalc](https://www.davidc.net/sites/default/subnets/subnets.html)
-  
+
 - **vault**:
   [vault](https://warden.corp.cloudlinux.com/#/login)
   [ipa](https://auth.corp.cloudlinux.com/ipa/ui/)
