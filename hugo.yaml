@@ -4,7 +4,7 @@ title: "Roman Y. Bogdanov"
 
 theme: [PaperMod]
 params:
-  copyright: "© 2025 My Custom Site"
+  copyright: "© 2026"
   hideCredits: true # Отключает "Powered by Hugo"
   hideDate: true # Отключает отображение даты на всех страницах
   fontSize: 18px  # Пример настройки, если тема поддерживает такие параметры
@@ -22,10 +22,10 @@ menu:
       weight: 20
     - name: "cl"
       url: "/cl/"
-      weight: 50
+      weight: 30
     - name: "orn"
       url: "/orn/"
-      weight: 50
+      weight: 40
     - name: "LinkedIn"
       url: "https://www.linkedin.com/in/brjed/"
       weight: 80
