@@ -21,6 +21,7 @@ draft: false
   [linked](https://www.linkedin.com/feed/)
   [insta](https://www.instagram.com/)
   [frog](https://frogcall.app/)
+  [map](https://my.dawarich.app/map)
 
 - **google**:
   [contact](https://contacts.google.com/)
