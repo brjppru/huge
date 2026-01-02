@@ -64,6 +64,7 @@ draft: false
   [dnscheck](https://dnscheck.tools/)
   [SNI](https://www.cloudflare.com/ssl/encrypted-sni/)
   [adblock](https://checkadblock.ru/)
+  [leak](https://dnsleaktest.com/)
 
 - **ripedb**:
   [hurricane](https://bgp.he.net/)
