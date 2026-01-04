@@ -3,6 +3,11 @@ description: "welcome"
 draft: false
 ---
 
+- **cur**:
+  [kzt](https://onlymir.ru/kzt)
+  [mir](https://onlymir.ru/)
+  [fin](https://kazfin.info/exchange/)
+
 - **ai**:
   [gem](https://gemini.google.com)
   [gpt](https://chatgpt.com/)
@@ -47,6 +52,7 @@ draft: false
   [ATI](https://trace.ati.su)
   [CPU](https://technical.city/ru/cpu/Xeon-X5650-protiv-Core-i3-8130U)
   [5450](https://xeon-e5450.ru/socket-2011-3/e5-2600-v3/)
+  [oldxeon](https://oldrigrevive.com/)
   [phones](https://phonesdata.com/ru/smartphones/apple/iphone-15-pro-5464996/galaxy-a53-5g-5461953/iphone-15-5464969/)
   [fly](https://www.kupibilet.ru/)
 
