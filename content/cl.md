@@ -14,7 +14,7 @@ ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAINOk/fA74R1lcJbyK7XPMRp7288IgOCsnSG1FfuS574v
   [AIAI](https://aichat.corp.cloudlinux.com/c/new)
 
 - **HR**:
-  [dailyrun](https://cloudlinux.slite.com/app/docs/AD2yTVIbAg8LzX)
+  [brjdail](https://cloudlinux.slite.com/app/docs/cnywLJ7-VyhWNe)
   [bamboo](https://cloudlinux.bamboohr.com/)
   [academy](https://academy.cloudlinux.com/course/index.php?categoryid=7)
   [public holiday](https://docs.google.com/spreadsheets/d/1JGCY_3c_dFQwZW1swDT1WU9Squ3kJ9j9/edit?gid=1142768891#gid=1142768891)
