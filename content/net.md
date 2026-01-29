@@ -29,6 +29,7 @@ draft: false
   [awsst](https://aws-latency-test.com/)
   [brleak](https://browserleaks.com/)
   [ipleak](https://ipleak.net)
+  [abuseip](https://www.abuseipdb.com/)
 
 - **speedtest**:
   [st0](https://speed.cloudflare.com/)
