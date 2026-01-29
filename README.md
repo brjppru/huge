@@ -1,4 +1,4 @@
-# Hi there 👋 
+# Hi there 👋
 
 This is ЗАО "the бырдж" start page
 

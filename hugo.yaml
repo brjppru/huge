@@ -14,18 +14,24 @@ params:
   favicon: "/favicon.ico"
 menu:
   main:
-    - name: "go"
+    - name: "letsgo"
       url: "/"
       weight: 10
     - name: "About"
       url: "/about/"
       weight: 20
+    - name: "connect"
+      url: "/net/"
+      weight: 25
+    - name: "homelab"
+      url: "/hl/"
+      weight: 30
     - name: "cl"
       url: "/cl/"
-      weight: 30
+      weight: 40
     - name: "orn"
       url: "/orn/"
-      weight: 40
+      weight: 50
     - name: "LinkedIn"
       url: "https://www.linkedin.com/in/brjed/"
       weight: 80

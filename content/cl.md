@@ -5,6 +5,10 @@ showDate: false
 
 ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAINOk/fA74R1lcJbyK7XPMRp7288IgOCsnSG1FfuS574v
 
+- **daily**:
+  [brjdaily](https://cloudlinux.slite.com/app/docs/cnywLJ7-VyhWNe)
+  [sprint+board](https://cloudlinux.atlassian.net/jira/software/c/projects/IDO/boards/362)
+
 - **current**:
   [cursor](https://cursor.com/dashboard?tab=usage)
   [timebuddy](https://www.worldtimebuddy.com/)
@@ -14,7 +18,6 @@ ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAINOk/fA74R1lcJbyK7XPMRp7288IgOCsnSG1FfuS574v
   [AIAI](https://aichat.corp.cloudlinux.com/c/new)
 
 - **HR**:
-  [brjdail](https://cloudlinux.slite.com/app/docs/cnywLJ7-VyhWNe)
   [bamboo](https://cloudlinux.bamboohr.com/)
   [academy](https://academy.cloudlinux.com/course/index.php?categoryid=7)
   [public holiday](https://docs.google.com/spreadsheets/d/1JGCY_3c_dFQwZW1swDT1WU9Squ3kJ9j9/edit?gid=1142768891#gid=1142768891)
@@ -30,7 +33,6 @@ ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAINOk/fA74R1lcJbyK7XPMRp7288IgOCsnSG1FfuS574v
   [onbrdng](https://cloudlinux.slite.com/app/channels/2jdZMG8BhFttCP)
 
 - **team**:
-  [sprint+board](https://cloudlinux.atlassian.net/jira/software/c/projects/IDO/boards/362)
   [backlog](https://miro.com/app/board/uXjVIVUNBQ0=/)
   [techstack](https://cloudlinux.slite.com/app/docs/GTYitHMsiingv9/Technological-Stack-Managing-and-Requesting-Adaptation-of-a-New-Technologies)
 
