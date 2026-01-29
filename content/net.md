@@ -1,5 +1,6 @@
 ---
-description: "welcome"
+description: "network tools"
+title: "network"
 draft: false
 ---
 
@@ -35,4 +36,3 @@ draft: false
   [st2](https://www.nperf.com/en/)
   [st3](https://zamerka.com/)
   [st4](https://yandex.kz/internet)
-

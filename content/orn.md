@@ -1,6 +1,7 @@
 ---
+description: "orion lab links"
+title: "orion nlab"
 draft: false
-showDate: false
 ---
 
 - **ERP**:

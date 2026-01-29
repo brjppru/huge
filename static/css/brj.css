@@ -53,6 +53,38 @@
   color: white;
 }
 
+/* Menu links - match hover style used in content links */
+#menu a {
+  color: inherit;
+  text-decoration: none;
+  position: relative;
+  display: inline;
+  padding: 0;
+  margin: 0 2px;
+}
+
+#menu a:hover,
+#menu a:focus-visible {
+  background-color: #e24486;
+  color: white;
+  padding: 2px 4px;
+  margin: -2px -4px;
+  border-radius: 3px;
+  transition: background-color 0.2s ease, color 0.2s ease;
+}
+
+#menu a:hover::before,
+#menu a:focus-visible::before {
+  content: "[";
+  color: white;
+}
+
+#menu a:hover::after,
+#menu a:focus-visible::after {
+  content: "]";
+  color: white;
+}
+
 /* Ensure links in lists stay inline */
 .post-content ul li,
 .post-content ol li {

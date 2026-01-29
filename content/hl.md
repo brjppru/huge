@@ -1,5 +1,6 @@
 ---
-description: "homelab"
+description: "Home Lab links"
+title: "Home lab"
 draft: false
 ---
 
@@ -42,4 +43,3 @@ draft: false
 - **qbots**:
   [jira](https://qbots.atlassian.net/)
   [prox](https://vdev.k12.kz:8006/)
-

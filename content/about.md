@@ -1,6 +1,7 @@
 ---
 draft: false
 title: 'Hi, 👋'
+description: "About me"
 showDate: false
 ---
 

@@ -1,6 +1,6 @@
 baseURL: "/"
 languageCode: en-us
-title: "Roman Y. Bogdanov"
+title: "Roman Bogdanov"
 
 theme: [PaperMod]
 params:
@@ -14,13 +14,13 @@ params:
   favicon: "/favicon.ico"
 menu:
   main:
-    - name: "letsgo"
+    - name: "go"
       url: "/"
       weight: 10
-    - name: "About"
+    - name: "about me"
       url: "/about/"
       weight: 20
-    - name: "connect"
+    - name: "network"
       url: "/net/"
       weight: 25
     - name: "homelab"
@@ -29,7 +29,7 @@ menu:
     - name: "cl"
       url: "/cl/"
       weight: 40
-    - name: "orn"
+    - name: "orion"
       url: "/orn/"
       weight: 50
     - name: "LinkedIn"

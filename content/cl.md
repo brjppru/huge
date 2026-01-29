@@ -1,5 +1,7 @@
 ---
 draft: false
+title: "CloudLinux"
+description: "daily driver"
 showDate: false
 ---
 
