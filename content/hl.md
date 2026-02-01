@@ -13,8 +13,9 @@ draft: false
 
 - **ala.lab**:
   [PVE](https://pve.brj.kz/)
-  [dns](https://dns.l0.brj.kz/)
+  [dhcp](https://dhcp.l0.brj.kz/)
   [git](https://git.l0.brj.kz/)
+  [fj](https://fj.l0.brj.kz/)
   [ISO](https://iso.l0.brj.kz/)
 
 - **ala.bee**:

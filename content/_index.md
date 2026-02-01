@@ -14,12 +14,6 @@ draft: false
   [gpt](https://chatgpt.com/)
   [studio](https://aistudio.google.com/prompts/new_chat)
 
-- **weather**:
-  [airkaz](https://www.airkaz.org/almaty.php)
-  [iqair1](https://www.iqair.com/air-quality-map/kazakhstan/almaty-oblysy/almaty)
-  [iqair2](https://www.iqair.com/kazakhstan/almaty-oblysy/almaty)
-  [iqicn](https://aqicn.org/here/)
-
 - **social**:
   [vk](https://m.vk.com/feed)
   [fb](https://m.facebook.com/?sk=h_chr)

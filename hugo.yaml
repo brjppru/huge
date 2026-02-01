@@ -20,6 +20,12 @@ menu:
     - name: "about me"
       url: "/about/"
       weight: 20
+    - name: "🇷🇺 ru"
+      url: "/ru/"
+      weight: 22
+    - name: "🇰🇿 kz"
+      url: "/kz/"
+      weight: 23
     - name: "network"
       url: "/net/"
       weight: 25
