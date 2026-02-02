@@ -1,6 +1,12 @@
 baseURL: "/"
 languageCode: en-us
 title: "Roman Bogdanov"
+enableRobotsTXT: true
+
+sitemap:
+  changefreq: "weekly"
+  priority: 0.5
+  filename: "sitemap.xml"
 
 theme: [PaperMod]
 params:
@@ -17,25 +23,25 @@ menu:
     - name: "go"
       url: "/"
       weight: 10
-    - name: "about me"
+    - name: "me"
       url: "/about/"
       weight: 20
-    - name: "🇷🇺 ru"
+    - name: "rub"
       url: "/ru/"
       weight: 22
-    - name: "🇰🇿 kz"
+    - name: "kzt"
       url: "/kz/"
       weight: 23
-    - name: "network"
+    - name: "eth0"
       url: "/net/"
       weight: 25
-    - name: "homelab"
+    - name: "hl"
       url: "/hl/"
       weight: 30
     - name: "cl"
       url: "/cl/"
       weight: 40
-    - name: "orion"
+    - name: "or"
       url: "/orn/"
       weight: 50
     - name: "LinkedIn"

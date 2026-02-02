@@ -1,6 +1,6 @@
 ---
 description: "orion lab links"
-title: "orion nlab"
+title: "orion"
 draft: false
 ---
 
@@ -19,7 +19,6 @@ draft: false
 - **goods**:
   [confl](https://readme.orionnet.ru/)
   [jira](https://do.orionnet.ru/)
-  [gitlab](https://gitlab.orionnet.ru/iac/ci)
 
 - **ci/cd**:
   [gitlab](https://gitlab.orionnet.ru/iac/ci)
