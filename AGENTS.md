@@ -19,6 +19,9 @@ Hugo site in the repository root. Theme is PaperMod as a git submodule in `theme
 - `layouts/_default/list.html`
 - `layouts/partials/extend_head.html` includes `/css/brj.css`
 - `layouts/404.html`
+- `layouts/partials/partials/templates/_funcs/get-page-images.html` is a shim to satisfy PaperMod v8.0 partial path on Netlify/Hugo.
+- `layouts/partials/templates/opengraph.html` overrides PaperMod to avoid deprecated `site.Social`.
+- `layouts/partials/templates/twitter_cards.html` overrides PaperMod to avoid deprecated `site.Social`.
 
 ## Static Assets
 - Active CSS: `static/css/brj.css`

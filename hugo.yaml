@@ -8,6 +8,8 @@ sitemap:
   priority: 0.5
   filename: "sitemap.xml"
 
+ignoreLogs: ['warning-partial-superfluous-prefix']
+
 theme: [PaperMod]
 params:
   copyright: "© 2026"
