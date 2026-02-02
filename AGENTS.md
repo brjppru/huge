@@ -8,6 +8,7 @@ Hugo site in the repository root. Theme is PaperMod as a git submodule in `theme
 - `languageCode` must remain unchanged (`en-us`) unless explicitly requested.
 - Menu is defined in `hugo.yaml`.
 - `enableRobotsTXT: true` and custom `sitemap` config are set in `hugo.yaml`.
+- `ignoreLogs` suppresses the PaperMod partial prefix warning.
 
 ## Content
 - Markdown content in `content/`.
@@ -39,3 +40,4 @@ Hugo site in the repository root. Theme is PaperMod as a git submodule in `theme
 - Theme updates must prefer stable releases (tags) over `master` unless explicitly requested.
 - Generated/ignored: `public/`, `.hugo_build.lock`, `resources/_gen/`.
 - Content includes internal/private links and IPs (e.g., `content/cl.md`, `content/hl.md`, `content/orn.md`); treat as sensitive.
+- Always update `AGENTS.md` to reflect the current project context after the user confirms "everything is OK" or "all good."
