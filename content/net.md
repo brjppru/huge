@@ -27,6 +27,7 @@ draft: false
   [eth0](https://ifconfig.co/)
   [eth1](https://ifconfig.io/)
   [1111](https://1.1.1.1/help)
+  [cfstat](https://www.cloudflare.com/cdn-cgi/trace/)
   [awsst](https://aws-latency-test.com/)
   [brleak](https://browserleaks.com/)
   [ipleak](https://ipleak.net)
