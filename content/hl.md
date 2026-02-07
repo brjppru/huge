@@ -4,20 +4,32 @@ title: "Home lab"
 draft: false
 ---
 
-- **ala.homed**:
+- **ala.gates**:
   [gpon](http://192.168.1.1/)
   [gate](http://192.168.0.1/)
+
+- **ala.homed**:
+  [dhcp](https://dhcp.l0.brj.kz/)
   [scan](https://scan.l0.brj.kz/)
   [L2360D](http://192.168.0.9/)
-  [ripe.atlas](https://atlas.ripe.net/probes/1002179/)
-  [dockerhand](https://dh.l0.brj.kz/containers)
+  [atlas](https://atlas.ripe.net/probes/1002179/)
 
 - **ala.lab**:
-  [PVE](https://pve.brj.kz/)
-  [dhcp](https://dhcp.l0.brj.kz/)
+  [pro](https://pro.brj.kz/)
+  [pve](https://pve.l0.brj.kz/)
+  [pbs](https://pbe.l0.brj.kz/)
+  [ISO](https://iso.l0.brj.kz/)
+
+- **ala.services**:
+  [pulse](https://pulse.l0.brj.kz/)
+  [dockerhand](https://dh.l0.brj.kz/containers)
+  [kuma](https://kuma.l0.brj.kz/)
+  [stt](https://stt.l0.brj.kz/)
+  [ntfy](https://ntfy.l0.brj.kz/)
+
+- **ala.lab**:
   [git](https://git.l0.brj.kz/)
   [fj](https://fj.l0.brj.kz/)
-  [ISO](https://iso.l0.brj.kz/)
 
 - **ala.bee**:
   [bee.mng](http://192.168.0.17/)
