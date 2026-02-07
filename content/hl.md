@@ -1,37 +1,38 @@
 ---
-description: "Home Lab links"
+description: "Almaty home Lab links"
 title: "Home lab"
 draft: false
 ---
 
-- **ala.gates**:
+- **gates**:
   [gpon](http://192.168.1.1/)
   [gate](http://192.168.0.1/)
 
-- **ala.homed**:
+- **homed**:
   [dhcp](https://dhcp.l0.brj.kz/)
   [scan](https://scan.l0.brj.kz/)
   [L2360D](http://192.168.0.9/)
   [atlas](https://atlas.ripe.net/probes/1002179/)
 
-- **ala.lab**:
+- **manage**:
   [pro](https://pro.brj.kz/)
   [pve](https://pve.l0.brj.kz/)
-  [pbs](https://pbe.l0.brj.kz/)
+  [pbs](https://pbs.l0.brj.kz/)
   [ISO](https://iso.l0.brj.kz/)
 
-- **ala.services**:
+- **monitor**:
+  [monit](https://mon.l0.brj.kz/)
   [pulse](https://pulse.l0.brj.kz/)
   [dockerhand](https://dh.l0.brj.kz/containers)
   [kuma](https://kuma.l0.brj.kz/)
   [stt](https://stt.l0.brj.kz/)
   [ntfy](https://ntfy.l0.brj.kz/)
 
-- **ala.lab**:
+- **code**:
   [git](https://git.l0.brj.kz/)
   [fj](https://fj.l0.brj.kz/)
 
-- **ala.bee**:
+- **storage**:
   [bee.mng](http://192.168.0.17/)
   [bee.fls](http://192.168.0.17/BeeFiles/)
   [bee.prt](https://portal.bee.synology.com/)
