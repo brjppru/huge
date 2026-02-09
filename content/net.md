@@ -4,6 +4,10 @@ title: "network"
 draft: false
 ---
 
+- **CIDR**:
+  [calc1](https://visualsubnetcalc.com/)
+  [calc2](https://www.davidc.net/sites/default/subnets/subnets.html)
+
 - **dns**:
   [dig](https://digwebinterface.com/)
   [dnssec](https://wander.science/projects/dns/dnssec-resolver-test/)
