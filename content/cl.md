@@ -33,6 +33,7 @@ ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAINOk/fA74R1lcJbyK7XPMRp7288IgOCsnSG1FfuS574v
   [be4](https://training.knowbe4.com/ui/login)
   [swag](https://store.covver.io/cloudlinux/collections/cloudlinux-collection)
   [onbrdng](https://cloudlinux.slite.com/app/channels/2jdZMG8BhFttCP)
+  [refund](https://script.google.com/a/macros/cloudlinux.com/s/AKfycbx9bguWss7NJofHn2ClhYJJmUys4FITk_DvZTX1ZxQA_zMVlC3NFL4_kkC9odLikvNkEg/exec)
 
 - **team**:
   [backlog](https://miro.com/app/board/uXjVIVUNBQ0=/)
@@ -60,6 +61,7 @@ ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAINOk/fA74R1lcJbyK7XPMRp7288IgOCsnSG1FfuS574v
 - **traffic**:
   [elflow](http://10.192.17.55:5601/app/kibana#/dashboards)
   [gitlab iac](https://gitlab.corp.cloudlinux.com/infra/networks/vrouter/-/blob/main/terraform/templates/virtual_machine.tf?ref_type=heads)
+  [foreman](https://foreman-prod.corp.cloudlinux.com/users/login)
 
 - **sw+rt**:
   [netbox](https://netbox.atm.svcs.io/dcim/devices/)
