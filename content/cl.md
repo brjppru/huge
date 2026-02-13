@@ -34,6 +34,8 @@ ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAINOk/fA74R1lcJbyK7XPMRp7288IgOCsnSG1FfuS574v
   [swag](https://store.covver.io/cloudlinux/collections/cloudlinux-collection)
   [onbrdng](https://cloudlinux.slite.com/app/channels/2jdZMG8BhFttCP)
   [refund](https://script.google.com/a/macros/cloudlinux.com/s/AKfycbx9bguWss7NJofHn2ClhYJJmUys4FITk_DvZTX1ZxQA_zMVlC3NFL4_kkC9odLikvNkEg/exec)
+  [GRP](https://cloudlinux.slite.com/app/docs/REbU3IERC0RyjY)
+  [IG3](https://docs.google.com/spreadsheets/d/1ifsbglGN5Q47P69QwQ86n1H7I9VVXfYQ/edit?gid=1165990137#gid=1165990137)
 
 - **team**:
   [backlog](https://miro.com/app/board/uXjVIVUNBQ0=/)
