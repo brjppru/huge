@@ -46,7 +46,8 @@ ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAINOk/fA74R1lcJbyK7XPMRp7288IgOCsnSG1FfuS574v
   [page](https://cloudlinux.slite.com/app/docs/8nGY9gb7WRdwu1)
 
 - **monitor**:
-  [graf](https://metrics.atm.svcs.io/)
+  [grafana](https://grafana.svcs.io/)
+  [oldgraf](https://metrics.atm.svcs.io/)
   [victory](http://victoriametrics.atm.svcs.io/)
   [oxidized](http://oxidized.atm.svcs.io:8888/nodes)
   [cacti](https://cacti.atm.svcs.io/)
@@ -63,7 +64,7 @@ ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAINOk/fA74R1lcJbyK7XPMRp7288IgOCsnSG1FfuS574v
 - **traffic**:
   [elflow](http://10.192.17.55:5601/app/kibana#/dashboards)
   [gitlab iac](https://gitlab.corp.cloudlinux.com/infra/networks/vrouter/-/blob/main/terraform/templates/virtual_machine.tf?ref_type=heads)
-  [foreman](https://foreman-prod.corp.cloudlinux.com/users/login)
+  [foreman](https://foreman.svcs.io/)
 
 - **sw+rt**:
   [netbox](https://netbox.atm.svcs.io/dcim/devices/)
