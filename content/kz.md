@@ -11,6 +11,7 @@ draft: false
   [kzt](https://onlymir.ru/kzt)
   [mir](https://onlymir.ru/)
   [fin](https://kazfin.info/exchange/)
+  [say](https://drugoi.github.io/qazaqsha-soyle/)
 
 - **shop**:
   [ozon](https://ozon.kz/)
