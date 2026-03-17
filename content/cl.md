@@ -11,8 +11,11 @@ ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAINOk/fA74R1lcJbyK7XPMRp7288IgOCsnSG1FfuS574v
   [brjdaily](https://cloudlinux.slite.com/app/docs/cnywLJ7-VyhWNe)
   [sprint+board](https://cloudlinux.atlassian.net/jira/software/c/projects/IDO/boards/362)
 
-- **current**:
+- **slop-stat**:
   [cursor](https://cursor.com/dashboard?tab=usage)
+  [codex](https://chatgpt.com/codex/settings/usage)
+
+- **current**:
   [timebuddy](https://www.worldtimebuddy.com/)
   [elflow](https://cloudlinux.atlassian.net/browse/IDO-1104)
   [risovach](https://excalidraw.com/)
