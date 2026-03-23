@@ -4,6 +4,11 @@ description: "start here"
 draft: false
 ---
 
+- **im**:
+  [podcast](https://podcasts.apple.com/kz/home)
+  [vkmsg](https://web.vk.me/)
+  [whapp](https://web.whatsapp.com/)
+
 - **cur**:
   [kzt](https://onlymir.ru/kzt)
   [mir](https://onlymir.ru/)

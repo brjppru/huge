@@ -6,6 +6,7 @@ draft: false
 
 - **sites**:
   [sud](https://office.sud.kz/)
+  [taylor](https://taylor.kz/)
 
 - **dollor**:
   [kzt](https://onlymir.ru/kzt)
