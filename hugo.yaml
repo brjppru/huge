@@ -1,4 +1,4 @@
-baseURL: "/"
+baseURL: "https://brjed.netlify.app/"
 languageCode: en-us
 title: "Roman Bogdanov"
 enableRobotsTXT: true
@@ -20,6 +20,14 @@ params:
   disableThemeToggle: false
   hideFooter: true
   favicon: "/favicon.ico"
+  images: ["/img/og.jpg"]
+  description: "Roman Bogdanov — network engineer. Personal start page and link hub."
+  author: "Roman Bogdanov"
+  schema:
+    publisherType: Person
+    sameAs:
+      - "https://www.linkedin.com/in/brjed/"
+      - "https://github.com/brjppru/"
 menu:
   main:
     - name: "go"
