@@ -5,7 +5,7 @@ draft: false
 ---
 
 - **sopm**:
-  [Y26Q1](https://readme.orionnet.ru/pages/viewpage.action?pageId=279252334)
+  [Y26Q2](https://readme.orionnet.ru/pages/viewpage.action?pageId=299237583)
 
 - **ERP**:
   [mailo](https://mail.orionnet.ru/mail/)
@@ -19,6 +19,7 @@ draft: false
 - **goods**:
   [confl](https://readme.orionnet.ru/)
   [jira](https://do.orionnet.ru/)
+  [OSIS](https://do.orionnet.ru/projects/OSIS/)
 
 - **ci/cd**:
   [gitlab](https://gitlab.orionnet.ru/iac/ci)
