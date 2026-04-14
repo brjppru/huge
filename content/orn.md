@@ -11,6 +11,7 @@ draft: false
   [mailo](https://mail.orionnet.ru/mail/)
   [ERP](https://erp.orionnet.ru/events/)
   [office](https://r7admin.orionnet.ru/dashboard)
+  [corp](https://corp.express/)
 
 - **lanbox**:
   [netbox](https://netbox.orionnet.ru/dcim/racks/)
