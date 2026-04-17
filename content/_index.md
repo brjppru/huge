@@ -18,6 +18,7 @@ draft: false
   [gem](https://gemini.google.com)
   [gpt](https://chatgpt.com/)
   [studio](https://aistudio.google.com/prompts/new_chat)
+  [hotla](https://cc.storyfox.cz/)
 
 - **social**:
   [vk](https://m.vk.com/feed)
