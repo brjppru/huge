@@ -12,6 +12,7 @@ draft: false
   [ERP](https://erp.orionnet.ru/events/)
   [office](https://r7admin.orionnet.ru/dashboard)
   [corp](https://corp.express/)
+  [ikev2](https://remote.orionnet.ru/)
 
 - **lanbox**:
   [netbox](https://netbox.orionnet.ru/dcim/racks/)
