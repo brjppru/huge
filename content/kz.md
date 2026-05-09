@@ -8,6 +8,11 @@ draft: false
   [sud](https://office.sud.kz/)
   [taylor](https://taylor.kz/)
 
+- **egov**:
+  [re:cert](https://nca.pki.gov.kz/ua/login.xhtml?lang=ru)
+  [knp](https://cabinet.kgd.gov.kz/knp/main/index)
+  [np](https://knp.kgd.gov.kz/signin)
+
 - **dollor**:
   [kzt](https://onlymir.ru/kzt)
   [mir](https://onlymir.ru/)
