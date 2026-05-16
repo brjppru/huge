@@ -36,6 +36,7 @@ draft: false
   [brleak](https://browserleaks.com/)
   [ipleak](https://ipleak.net)
   [abuseip](https://www.abuseipdb.com/)
+  [wmip](https://whatismy-ipaddress.com/)
 
 - **speedtest**:
   [st0](https://speed.cloudflare.com/)

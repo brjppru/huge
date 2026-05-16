@@ -12,6 +12,7 @@ draft: false
   [re:cert](https://nca.pki.gov.kz/ua/login.xhtml?lang=ru)
   [knp](https://cabinet.kgd.gov.kz/knp/main/index)
   [np](https://knp.kgd.gov.kz/signin)
+  [IMEI](https://imei.rfs.gov.kz/)
 
 - **dollor**:
   [kzt](https://onlymir.ru/kzt)
