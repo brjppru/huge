@@ -26,6 +26,7 @@ draft: false
   [cmu](https://cmu.gov.ru/ru/lg/)
   [iplist](https://iplist.opencck.org/)
   [kaz-ix](https://lg-ix.sts.kz/)
+  [radar](https://radar.cloudflare.com/routing)
 
 - **eth0**:
   [eth0](https://ifconfig.co/)
