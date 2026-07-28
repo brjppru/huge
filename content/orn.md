@@ -1,11 +1,11 @@
 ---
-description: "orion lab links"
+description: "brj orion lab links"
 title: "orion"
 draft: false
 ---
 
 - **sopm**:
-  [Y26Q2](https://readme.orionnet.ru/pages/viewpage.action?pageId=299237583)
+  [Y26Q3](https://readme.orionnet.ru/pages/viewpage.action?pageId=310542399)
 
 - **ERP**:
   [mailo](https://mail.orionnet.ru/mail/)

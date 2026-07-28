@@ -29,7 +29,6 @@ draft: false
   [ntfy](https://ntfy.l0.brj.kz/)
 
 - **code**:
-  [git](https://git.l0.brj.kz/)
   [fj](https://fj.l0.brj.kz/)
 
 - **storage**:

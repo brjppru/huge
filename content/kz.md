@@ -7,6 +7,7 @@ draft: false
 - **sites**:
   [sud](https://office.sud.kz/)
   [taylor](https://taylor.kz/)
+  [trains](https://railways.zharaskhan.com/)
 
 - **egov**:
   [re:cert](https://nca.pki.gov.kz/ua/login.xhtml?lang=ru)
