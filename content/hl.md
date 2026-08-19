@@ -55,5 +55,5 @@ draft: false
   [ripe.atlas](https://atlas.ripe.net/probes/50785/)
 
 - **qbots**:
-  [jira](https://qbots.atlassian.net/)
-  [prox](https://vdev.k12.kz:8006/)
+  [proxprod](https://run.k12.kz:8006/)
+  [proxdev](https://dev.k12.kz:8006/)
