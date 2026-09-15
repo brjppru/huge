@@ -12,20 +12,18 @@ ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAINOk/fA74R1lcJbyK7XPMRp7288IgOCsnSG1FfuS574v
   [sprint+board](https://cloudlinux.atlassian.net/jira/software/c/projects/IDO/boards/362)
 
 - **slop-stat**:
-  [cursor](https://cursor.com/dashboard?tab=usage)
   [codex](https://chatgpt.com/codex/settings/usage)
+  [claude](https://claude.ai/new#settings/usage)
 
 - **current**:
   [timebuddy](https://www.worldtimebuddy.com/)
-  [elflow](https://cloudlinux.atlassian.net/browse/IDO-1104)
-  [risovach](https://excalidraw.com/)
   [askinfra](https://cloudlinux.atlassian.net/servicedesk/customer/portal/11)
-  [AIAI](https://aichat.corp.cloudlinux.com/c/new)
 
 - **HR**:
   [bamboo](https://cloudlinux.bamboohr.com/)
+  [kudos](https://cl-pulse.cloudlinux.com/dashboard)
   [academy](https://academy.cloudlinux.com/course/index.php?categoryid=7)
-  [public holiday](https://docs.google.com/spreadsheets/d/1JGCY_3c_dFQwZW1swDT1WU9Squ3kJ9j9/edit?gid=1142768891#gid=1142768891)
+  [PH](https://docs.google.com/spreadsheets/d/1JGCY_3c_dFQwZW1swDT1WU9Squ3kJ9j9/edit?gid=1142768891#gid=1142768891)
   [vacation](https://cloudlinux.slite.com/app/docs/PpAbdMHRhIInNo/Vacation-policy-for-non-Support-Teams)
   [vacrest](https://cloudlinux.slite.com/app/docs/xec4PKGnvU1SrT/Vacation-Travel-and-Access-Restrictions)
   [vactodo](https://cloudlinux.slite.com/app/docs/qmTgVknXmK0Fz6)
