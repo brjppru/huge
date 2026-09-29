@@ -17,6 +17,7 @@ draft: false
   [leak](https://dnsleaktest.com/)
 
 - **ripedb**:
+  [ioda](https://ioda.inetintel.cc.gatech.edu/)
   [bgpplay](https://stat.ripe.net/bgplay/)
   [hurricane](https://bgp.he.net/)
   [bgp.tools](https://bgp.tools/)
