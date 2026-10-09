@@ -5,14 +5,14 @@ draft: false
 ---
 
 - **sopm**:
-  [Y26Q3](https://readme.orionnet.ru/pages/viewpage.action?pageId=310542399)
+  [Y26Q4](https://readme.orionnet.ru/pages/viewpage.action?pageId=324469864)
 
 - **ERP**:
+  [remote](https://remote.orionnet.ru/)
   [mailo](https://mail.orionnet.ru/mail/)
   [ERP](https://erp.orionnet.ru/events/)
   [office](https://r7admin.orionnet.ru/dashboard)
   [corp](https://corp.express/)
-  [ikev2](https://remote.orionnet.ru/)
   [saby](https://online.saby.ru/)
 
 - **lanbox**:
