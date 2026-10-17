@@ -7,9 +7,10 @@ draft: false
 - **gates**:
   [gpon](http://192.168.1.1/)
   [gate](http://192.168.0.1/)
+  [dhcp](https://dhcp.l0.brj.kz/)
+  [arp](https://arp.l0.brj.kz/)
 
 - **homed**:
-  [dhcp](https://dhcp.l0.brj.kz/)
   [scan](https://scan.l0.brj.kz/)
   [L2360D](http://192.168.0.9/)
   [atlas](https://atlas.ripe.net/probes/1002179/)
@@ -22,19 +23,24 @@ draft: false
 
 - **monitor**:
   [monit](https://mon.l0.brj.kz/)
-  [pulse](https://pulse.l0.brj.kz/)
   [dockerhand](https://dh.l0.brj.kz/containers)
   [kuma](https://kuma.l0.brj.kz/)
   [stt](https://stt.l0.brj.kz/)
   [ntfy](https://ntfy.l0.brj.kz/)
+  [oob](https://oob.l0.brj.kz/)
+
+- **remote**:
+  [rdp](https://rdp.l0.brj.kz/)
+  [kvm](https://kvm.l0.brj.kz/)
 
 - **code**:
   [fj](https://fj.l0.brj.kz/)
 
 - **storage**:
   [bee.mng](http://192.168.0.17/)
-  [bee.fls](http://192.168.0.17/BeeFiles/)
+  [bee.bsm](https://bsm.l0.brj.kz/)
   [bee.prt](https://portal.bee.synology.com/)
+  [bee.fls](http://192.168.0.17/BeeFiles/)
   [bee.jpg](http://192.168.0.17/BeePhotos/)
 
 - **sync.lab**:
@@ -44,6 +50,7 @@ draft: false
   [airm4work](http://192.168.0.106:8384/)
   [airm4self](http://192.168.0.107:8384/)
   [airm1](http://192.168.0.105:8384/)
+  [pro16m1p](http://192.168.0.101:8384/)
 
 - **MS26**:
   [monit](http://192.168.18.40:2222/)
@@ -53,7 +60,3 @@ draft: false
   [WDex](http://192.168.18.6)
   [D4](http://192.168.18.3)
   [ripe.atlas](https://atlas.ripe.net/probes/50785/)
-
-- **qbots**:
-  [proxprod](https://run.k12.kz:8006/)
-  [proxdev](https://dev.k12.kz:8006/)
