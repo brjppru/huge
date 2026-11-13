@@ -12,8 +12,8 @@ ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAINOk/fA74R1lcJbyK7XPMRp7288IgOCsnSG1FfuS574v
   [sprint+board](https://cloudlinux.atlassian.net/jira/software/c/projects/IDO/boards/362)
 
 - **slop-stat**:
-  [codex](https://chatgpt.com/codex/settings/usage)
   [claude](https://claude.ai/new#settings/usage)
+  [checkmy](https://ip.net.coffee/claude/)
 
 - **current**:
   [timebuddy](https://www.worldtimebuddy.com/)
