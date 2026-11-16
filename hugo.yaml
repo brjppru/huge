@@ -9,6 +9,7 @@ sitemap:
   filename: "sitemap.xml"
 
 ignoreLogs: ['warning-partial-superfluous-prefix']
+disableKinds: [taxonomy, term]
 
 theme: [PaperMod]
 params:
