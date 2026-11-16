@@ -68,7 +68,8 @@ ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAINOk/fA74R1lcJbyK7XPMRp7288IgOCsnSG1FfuS574v
   [foreman](https://foreman.svcs.io/)
 
 - **sw+rt**:
-  [netbox](https://netbox.atm.svcs.io/dcim/devices/)
+  [netbox](https://netbox.svcs.io/core/plugins/)
+  [oldnetbox](https://netbox.atm.svcs.io/dcim/devices/)
   [configs](https://gitlab.corp.cloudlinux.com/infra/networks/configs)
   [ipplan](https://docs.google.com/spreadsheets/d/1xSFZ2032Snu4odtkWp1UzMCmWQVblx3vTBe3XKxJ7LU/edit?gid=1111799036#gid=1111799036)
   [viscalc](https://www.davidc.net/sites/default/subnets/subnets.html)
