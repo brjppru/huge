@@ -14,6 +14,7 @@ draft: false
   [scan](https://scan.l0.brj.kz/)
   [L2360D](http://192.168.0.9/)
   [atlas](https://atlas.ripe.net/probes/1002179/)
+  [heretic](https://ertc.l0.brj.kz/)
 
 - **manage**:
   [pro](https://pro.brj.kz/)
@@ -27,11 +28,13 @@ draft: false
   [kuma](https://kuma.l0.brj.kz/)
   [stt](https://stt.l0.brj.kz/)
   [ntfy](https://ntfy.l0.brj.kz/)
+  [ntfy.lab](https://ntfy.l0.brj.kz/lab)
   [oob](https://oob.l0.brj.kz/)
 
 - **remote**:
   [rdp](https://rdp.l0.brj.kz/)
   [kvm](https://kvm.l0.brj.kz/)
+  [dell.amt](http://192.168.0.70:16992/)
 
 - **code**:
   [fj](https://fj.l0.brj.kz/)
