@@ -27,7 +27,6 @@ draft: false
   [dockerhand](https://dh.l0.brj.kz/containers)
   [kuma](https://kuma.l0.brj.kz/)
   [stt](https://stt.l0.brj.kz/)
-  [ntfy](https://ntfy.l0.brj.kz/)
   [ntfy.lab](https://ntfy.l0.brj.kz/lab)
   [oob](https://oob.l0.brj.kz/)
 
