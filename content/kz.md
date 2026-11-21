@@ -24,6 +24,7 @@ draft: false
 - **shop**:
   [ozon](https://ozon.kz/)
   [kaspi](https://kaspi.kz/shop/almaty/)
+  [oasis](https://oasis.poseidon-cloud.com/customer)
 
 - **weather**:
   [airkaz](https://www.airkaz.org/almaty.php)
